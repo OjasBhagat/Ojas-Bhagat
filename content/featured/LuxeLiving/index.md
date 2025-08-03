@@ -1,8 +1,8 @@
 ---
-date: '3'
+date: '2'
 title: 'LamaEstate'
 cover: './LuxeLiving.png'
-external: 'https://github.com/OjasBhagat/zap'
+external: 'https://github.com/OjasBhagat/Real_Estate'
 cta: 'https://github.com/OjasBhagat/Real_Estate'
 tech:
   - React
